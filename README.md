@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,bash,cpp,discord,docker,flask,git,github,html,js,jquery,linux,matlab,mysql,nginx,nodejs,notion,php,py,regex,sklearn,ubuntu,wordpress" />
+    <br>
     <img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white">
   </a>
 </p>
