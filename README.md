@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bash,cpp,discord,docker,flask,git,github,html,js,jquery,linux,matlab,mysql,nginx,nodejs,notion,php,py,regex,sklearn,ubuntu,wordpress" />
+  </a>
+</p>
 
 <!--
 **SR-soheil/SR-soheil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
